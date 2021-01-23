@@ -13,19 +13,19 @@ This includes 3 librairies that I use in all my society's projects in production
 
 # Projects accessible in production
 
-- [CrèchesLib](https://www.crecheslib.com/) : Nuxt, Typescript, GraphQL, Leeflet, Monetico (2019)
-- [BigUp](https://www.bigupvideo.com/) Vue, Typescript, GraphQL, Stripe (2018)
-- [Peppy Pro](https://peppy-group.com/peppypro/) Vue, Typescript, GraphQL, Stripe (2018)
-- [Totem landing site](https://totem.paris) Gatbsy, React, Contentful, TailwindCSS (2019)
+- [CrèchesLib](https://www.crecheslib.com/) : *Nuxt, Typescript, GraphQL, Leeflet, Monetico (2019)*
+- [BigUp](https://www.bigupvideo.com/) *Vue, Typescript, GraphQL, Stripe (2018)*
+- [Peppy Pro](https://peppy-group.com/peppypro/) *Vue, Typescript, GraphQL, Stripe (2018)*
+- [Totem landing site](https://totem.paris) *Gatbsy, React, Contentful, TailwindCSS (2019)*
 
 # Others projects only accesible by admins
 
-- [Milinus admin](https://www.milinus.com) (2020)
-- CrèchesLib admins and directors app (2019)
-- Bigup Admin app (2018)
-- [Rewind Admin app](https://rewindstories.fr/) (2019)
-- [Ahera Admin app](https://fr.aherafitness.com/) (2020)
-- Kazé Admin app (2020)
+- [Milinus admin](https://www.milinus.com) *Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
+- CrèchesLib admins and directors app: *Vue, Typescript, GraphQL (2019)*
+- Bigup Admin app:  *Vue, Typescript, GraphQL, Stripe (2018)*
+- [Rewind Admin app](https://rewindstories.fr/) * Vue, Typescript, GraphQL, Leaflet (2019)*
+- [Ahera Admin app](https://fr.aherafitness.com/) * Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
+- Kazé Admin app (2020) * Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
 
 
 [![Victor Garcia's github stats](https://github-readme-stats.vercel.app/api?username=victorgarciaesgi)](https://github.com/anuraghazra/github-readme-stats)
