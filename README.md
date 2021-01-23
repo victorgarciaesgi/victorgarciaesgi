@@ -23,9 +23,9 @@ This includes 3 librairies that I use in all my society's projects in production
 - [Milinus admin](https://www.milinus.com) *Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
 - CrèchesLib admins and directors app: *Vue, Typescript, GraphQL (2019)*
 - Bigup Admin app:  *Vue, Typescript, GraphQL, Stripe (2018)*
-- [Rewind Admin app](https://rewindstories.fr/) * Vue, Typescript, GraphQL, Leaflet (2019)*
-- [Ahera Admin app](https://fr.aherafitness.com/) * Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
-- Kazé Admin app (2020) * Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
+- [Rewind Admin app](https://rewindstories.fr/) *Vue, Typescript, GraphQL, Leaflet (2019)*
+- [Ahera Admin app](https://fr.aherafitness.com/) *Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
+- Kazé Admin app (2020)  Nuxt, Typescript, GraphQL, TailwindCSS (2020)*
 
 
 [![Victor Garcia's github stats](https://github-readme-stats.vercel.app/api?username=victorgarciaesgi)](https://github.com/anuraghazra/github-readme-stats)
