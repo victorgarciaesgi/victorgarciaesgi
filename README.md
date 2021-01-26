@@ -8,7 +8,7 @@ I love to make everything type-safe.
 
 This includes 3 librairies that I use in all my society's projects in production (Currently ~11)
 - [simple-graphql-to-typescript](https://github.com/victorgarciaesgi/simple-graphql-to-typescript)
-- [vuex-types-modules](https://github.com/victorgarciaesgi/vuex-typed-modules)
+- [vuex-typed-modules](https://github.com/victorgarciaesgi/vuex-typed-modules)
 - [nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
 
 # Projects accessible in production
