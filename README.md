@@ -6,7 +6,7 @@ My stack is primarily based on Nuxt.js/Vue.js, Typescript, GraphQL and TailwindC
 Experience with Gitlab CI, Github Actions.
 I love to make everything type-safe.
 
-This includes 5 librairies that I use in all my society's projects in production (Currently ~11)
+This includes 5 librairies that I use in all my company's projects in production (Currently ~11)
 - [simple-graphql-to-typescript](https://github.com/victorgarciaesgi/simple-graphql-to-typescript)
 - [vuex-typed-modules](https://github.com/victorgarciaesgi/vuex-typed-modules)
 - [nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
