@@ -14,4 +14,7 @@ This includes 5 librairies that I use in all my company's projects in production
 - [nuxt-assets-paths](https://github.com/victorgarciaesgi/nuxt-assets-paths)
 
 
+All my project can be seen at [https://vicflix.me/](https://vicflix.me/)
+
+
 [![Victor Garcia's github stats](https://github-readme-stats.vercel.app/api?username=victorgarciaesgi)](https://github.com/anuraghazra/github-readme-stats)
