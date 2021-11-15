@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Victor, a French front-end developer. Currently working as Lead front-end engineer at [Totem Paris](https://totem.paris)
+I'm Victor, a French front-end developer. Currently working as front-end engineer at [Malt](https://www.malt.fr/)
 
 My stack is primarily based on Nuxt.js/Vue.js, Typescript, GraphQL and TailwindCSS.
 Experience with Gitlab CI, Github Actions.
