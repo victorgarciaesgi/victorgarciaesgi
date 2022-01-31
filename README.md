@@ -8,9 +8,9 @@ I love to make everything type-safe.
 
 This includes 5 librairies that I used in projects in production (Currently ~11)
 - [vue-chart-3](https://github.com/victorgarciaesgi/vue-chart-3)
+- [nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
 - [simple-graphql-to-typescript](https://github.com/victorgarciaesgi/simple-graphql-to-typescript)
 - [vuex-typed-modules](https://github.com/victorgarciaesgi/vuex-typed-modules)
-- [nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
 - [nuxt-assets-paths](https://github.com/victorgarciaesgi/nuxt-assets-paths)
 
 
