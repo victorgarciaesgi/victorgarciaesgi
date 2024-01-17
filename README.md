@@ -13,7 +13,7 @@ This includes 4 librairies that I used in projects in production (Currently ~11)
 - [vuex-typed-modules](https://github.com/victorgarciaesgi/vuex-typed-modules)
 
 
-All my project can be seen at [https://vicflix.me/](https://vicflix.me/)
+All my project can be seen at [https://vicflix.me/](https://vicflix.dev/)
 
 
 [![Victor Garcia's github stats](https://github-readme-stats.vercel.app/api?username=victorgarciaesgi)](https://github.com/anuraghazra/github-readme-stats)
