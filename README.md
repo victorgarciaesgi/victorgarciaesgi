@@ -7,10 +7,11 @@ Experience with Gitlab CI, Github Actions.
 I love to make everything type-safe.
 
 This includes 4 librairies that I used in projects in production (Currently ~11)
-- [vue-chart-3](https://github.com/victorgarciaesgi/vue-chart-3)
+- [regle](https://github.com/victorgarciaesgi/regle)
 - [nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
-- [simple-graphql-to-typescript](https://github.com/victorgarciaesgi/simple-graphql-to-typescript)
+- [vue-chart-3](https://github.com/victorgarciaesgi/vue-chart-3)
 - [vuex-typed-modules](https://github.com/victorgarciaesgi/vuex-typed-modules)
+- [simple-graphql-to-typescript](https://github.com/victorgarciaesgi/simple-graphql-to-typescript)
 
 
 All my project can be seen at [https://vicflix.me/](https://vicflix.dev/)
