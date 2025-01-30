@@ -16,5 +16,3 @@ This includes 5 librairies that I used in projects in production.
 
 All my project can be seen at [https://vicflix.dev/](https://vicflix.dev/)
 
-
-[![Victor Garcia's github stats](https://github-readme-stats.vercel.app/api?username=victorgarciaesgi)](https://github.com/anuraghazra/github-readme-stats)
